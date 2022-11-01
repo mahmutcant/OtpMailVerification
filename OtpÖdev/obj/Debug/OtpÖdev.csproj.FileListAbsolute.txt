@@ -1,0 +1,12 @@
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\bin\Debug\OtpÖdev.exe.config
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\bin\Debug\OtpÖdev.exe
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\bin\Debug\OtpÖdev.pdb
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.csproj.AssemblyReference.cache
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.Form1.resources
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.Form2.resources
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.Properties.Resources.resources
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.csproj.GenerateResource.cache
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.exe
+C:\Users\Mahmut Can\Desktop\Otp\OtpÖdev\OtpÖdev\obj\Debug\OtpÖdev.pdb
